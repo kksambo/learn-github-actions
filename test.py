@@ -1,2 +1,2 @@
 def name():
-  print('sambo')
+    print('sambo')
